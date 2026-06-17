@@ -73,4 +73,5 @@ Quanto maior a quantidade de dados cadastrados, melhores tendem a ser as previs�
 ##  Autor
 
 Victor Manoel Brito, Marlon Reis, Erick Felipe
-Acadêmico de Sistemas de Informação
+
+Acadêmicos de Sistemas de Informação
